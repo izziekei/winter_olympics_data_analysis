@@ -14,4 +14,4 @@
 ## Data Source
   [Kaggle - Olympic Games Dataset](https://www.kaggle.com/datasets/hassanjameelahmed/olympic-dataset)
 
-![My Plot](Average When Hosting vs. Total Average Across Years.png)
+![My Plot](hometown_advantage.png)
